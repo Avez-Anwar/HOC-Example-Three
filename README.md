@@ -1,2 +1,2 @@
-# HOC-Example-Three
+# HOC-Example-One
 Created with CodeSandbox
